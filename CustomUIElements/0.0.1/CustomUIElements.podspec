@@ -37,10 +37,10 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/vsricci/PodsSpecs.git", :tag => "#{spec.version}" }
 
- # spec.source_files = 'CustomUIElements/0.0.1/**/*'
+ #spec.source_files = 'CustomUIElements/0.0.1/CustomUIElements.xcframework/'
   #spec.framework = 'CustomUIElements'
 
-  spec.exclude_files = "CustomUIElements/CustomUIElements.xcframework/*.plist" 
+  spec.exclude_files = "Classes/Exclude"
 
   spec.vendored_frameworks = 'CustomUIElements/0.0.1/CustomUIElements.xcframework'
 
