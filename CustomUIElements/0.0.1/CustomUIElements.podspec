@@ -9,17 +9,14 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
 
   spec.homepage     = "https://github.com/vsricci/PodsSpecs"
-  spec.license      = "MIT (example)"
 
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+ # spec.license          = { :type => 'MIT', :file => 'LICENSE' }
 
-  spec.author             = { "Vinicius Santos Ricci" => "vinicius.ricci4@gmail.com" }
+  spec.author             = { "vsricci" => "vinicius.ricci4@gmail.com" }
 
   spec.source       = { :git => "https://github.com/vsricci/PodsSpecs.git", :tag => "#{spec.version}" }
 
-
-  spec.source_files  = "CustomUIElents/**/*.{swift}"
+  spec.source_files = 'CustomUIElements/0.0.1/**/*'
  
-  spec.framework  = "UIKit"
  
 end
