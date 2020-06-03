@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/vsricci/PodsSpecs.git", :tag => "#{spec.version}" }
 
-  spec.source_files = 'CustomUIElements/0.0.1/**/*'
+  #spec.source_files = 'CustomUIElements/0.0.1/**/*'
 
   spec.vendored_frameworks = 'CustomUIElements.xcframework'
  
