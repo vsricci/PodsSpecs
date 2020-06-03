@@ -42,7 +42,7 @@ Pod::Spec.new do |spec|
 
   spec.exclude_files = "CustomUIElements/CustomUIElements.xcframework/*.plist" 
 
-  spec.vendored_frameworks = 'CustomUIElements.xcframework'
+  spec.vendored_frameworks = 'CustomUIElements/0.0.1/CustomUIElements.xcframework'
 
  # spec.subspec 'XCFRAMEWORK' do |ss|
  #       ss.ios.vendored_frameworks = 'Products/xcframeworks/CustomUIElements.xcframework'
