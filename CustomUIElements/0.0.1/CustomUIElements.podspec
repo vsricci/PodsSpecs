@@ -18,9 +18,9 @@ Pod::Spec.new do |spec|
 
   #spec.source_files = 'CustomUIElements/0.0.1/**/*'
 
-  s.default_subspecs = 'XCFRAMEWORK'
+  spec.default_subspecs = 'XCFRAMEWORK'
 
-    s.subspec 'XCFRAMEWORK' do |ss|
+  spec.subspec 'XCFRAMEWORK' do |ss|
         ss.ios.vendored_frameworks = 'Products/xcframeworks/CustomUIElements.xcframework'
         ss.preserve_paths = 'Products/xcframeworks/CustomUIElements.xcframework'
     end
