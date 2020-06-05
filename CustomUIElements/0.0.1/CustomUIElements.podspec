@@ -1,14 +1,13 @@
+
 Pod::Spec.new do |spec|
 
   spec.name         = "CustomUIElements"
   spec.version      = "0.0.1"
-  spec.ios.deployment_target = '10.0'
-  spec.swift_version = "5.0"
+  spec.summary      = "A short description of CustomUIElements.podspec."
   spec.platform     = :ios
-  spec.summary      = "A short description of CustomUIElements. dfdfgghdffghgsfhsfhfshfshdf"
   spec.requires_arc = true
-
-  spec.homepage     = "https://github.com/vsricci/PodsSpecs"
+  spec.swift_version = "5.0"
+  spec.homepage     = "https://github.com/vsricci/CustomUIElements"
 
   spec.license      = {
     :type => 'Copyright',
@@ -33,21 +32,13 @@ Pod::Spec.new do |spec|
         LICENSE
     }
 
+
   spec.author             = { "vsricci" => "vinicius.ricci4@gmail.com" }
 
-  spec.source       = { :git => "https://github.com/vsricci/PodsSpecs.git", :tag => "#{spec.version}" }
-
- #spec.source_files = 'CustomUIElements/0.0.1/CustomUIElements.xcframework/'
-  #spec.framework = 'CustomUIElements'
+  spec.source       = { :git => "https://github.com/vsricci/CustomUIElements.git", :tag => "#{spec.version}" }
 
   spec.exclude_files = "Classes/Exclude"
 
-  spec.vendored_frameworks = 'CustomUIElements/0.0.1/CustomUIElements.xcframework'
+  spec.vendored_frameworks = 'build/CustomUIElements.xcframework'
 
- # spec.subspec 'XCFRAMEWORK' do |ss|
- #       ss.ios.vendored_frameworks = 'Products/xcframeworks/CustomUIElements.xcframework'
- #       ss.preserve_paths = 'Products/xcframeworks/CustomUIElements.xcframework'
-#    end
- 
- 
 end
