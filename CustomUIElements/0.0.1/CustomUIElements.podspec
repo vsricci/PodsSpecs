@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CustomUIElements"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of CustomUIElements.podspec."
   spec.platform     = :ios
   spec.requires_arc = true
@@ -37,7 +37,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/vsricci/CustomUIElements.git", :tag => "#{spec.version}" }
 
-  spec.exclude_files = "Classes/Exclude"
+  #spec.exclude_files = "Classes/Exclude"
 
   spec.vendored_frameworks = 'build/CustomUIElements.xcframework'
 
