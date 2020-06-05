@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CustomUIElements-Swift.h</key>
 		<data>
-		+8ejNvepWWOEqUOUhM5ib2HwACU=
+		rpeUdMVIyFg2Ovj6k7QBDlzXVwU=
 		</data>
 		<key>Headers/CustomUIElements.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Main.storyboardc/5TA-Yn-YKn-view-gb4-hC-kSy.nib/objects-13.0+.nib</key>
 		<data>
-		2v0TfXVACgPKS4DOJP3splEzb54=
+		HPNdnq29o9yMyHHg0M54mEPyYaE=
 		</data>
 		<key>Main.storyboardc/5TA-Yn-YKn-view-gb4-hC-kSy.nib/runtime.nib</key>
 		<data>
-		2LidFbbtycuzbg9b+h4RmLdKb5g=
+		JPP9zWskiBSzKWpqRQr9iewTozw=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Main.storyboardc/TESTViewController.nib/objects-13.0+.nib</key>
 		<data>
-		XiVnX+7DJnkyRtHdgPRzik37yaY=
+		w071HuT2M1GzYEehFLcLFyUWs8Y=
 		</data>
 		<key>Main.storyboardc/TESTViewController.nib/runtime.nib</key>
 		<data>
-		0SqHfO0lSxZxR8MwfNI+nLfxqcM=
+		xw9TG6mGmrr+0oxEN8VY1IdReG4=
 		</data>
 		<key>Modules/CustomUIElements.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/CustomUIElements.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		XF97MU/qxTsLC5Zd0zveTEnnvlg=
+		OAPW8Y/PbPPJ6OsXG8+/TMZ4sCA=
 		</data>
 		<key>Modules/CustomUIElements.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SJlwz5V1790tj32MBpZFyRO87HE=
+		dj1nw5AlztH3gBXQrWeftY/2zS0=
 		</data>
 		<key>Modules/CustomUIElements.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/CustomUIElements.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		XF97MU/qxTsLC5Zd0zveTEnnvlg=
+		OAPW8Y/PbPPJ6OsXG8+/TMZ4sCA=
 		</data>
 		<key>Modules/CustomUIElements.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		SJlwz5V1790tj32MBpZFyRO87HE=
+		dj1nw5AlztH3gBXQrWeftY/2zS0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3DcdULXrnsEkZeJfd1z1hQfZ2/O2NccFiunllawl9Kw=
+			l0Sjh5/c4mhZ7LYD5nC17p2nKyDVTtbJrq5euHO8rx8=
 			</data>
 		</dict>
 		<key>Headers/CustomUIElements.h</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDfT4pKLsOVsJHyVg5n61VmSo6KD68Pdul73DO81qhw=
+			mxm4rVhVG/HGWBq0bkEAtzX8zUpjU/HqZzvuA/t9788=
 			</data>
 		</dict>
 		<key>Main.storyboardc/5TA-Yn-YKn-view-gb4-hC-kSy.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EE3nia4n7Z6vCLBI4JQ8yjlY/cBS2HRKkM/23wEIC6Y=
+			xew+ogdFzoop3mr3O2pNbAD4MjXdWFdISL2plUqTihQ=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -106,14 +106,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pa1KNjQgbsObEJX1pF677vg35LtcmSuO9ovv+zJURMc=
+			bL/kSa+UsdFs9zVf0yKhL3j/c5YBgxYkFjy02PxhB8k=
 			</data>
 		</dict>
 		<key>Main.storyboardc/TESTViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fHUORrgMy241u1HPeKIs0pRhCvywfp61BGLGGNk9sFY=
+			wrn97qpJwSp9uoTHnd100JGjZjIOii8X8xPOHJ/NXeA=
 			</data>
 		</dict>
 		<key>Modules/CustomUIElements.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -127,14 +127,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			btPk9eSC5sTNzT/FYegpysDjVSdbkeFy7486TzkGnNI=
+			5oGqcgq+Id1kjMgA0n0ACYy4ErvAJRUnJhPDMYh5Eu4=
 			</data>
 		</dict>
 		<key>Modules/CustomUIElements.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JsB+iGv8YMSahb/xFBWJhvdUDRk6O5EMaMb59pG4QWk=
+			ccLlSkL3fBWikfNjJ1OvqojPE36OutdWq+F8cq1lZYM=
 			</data>
 		</dict>
 		<key>Modules/CustomUIElements.swiftmodule/arm64.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			btPk9eSC5sTNzT/FYegpysDjVSdbkeFy7486TzkGnNI=
+			5oGqcgq+Id1kjMgA0n0ACYy4ErvAJRUnJhPDMYh5Eu4=
 			</data>
 		</dict>
 		<key>Modules/CustomUIElements.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JsB+iGv8YMSahb/xFBWJhvdUDRk6O5EMaMb59pG4QWk=
+			ccLlSkL3fBWikfNjJ1OvqojPE36OutdWq+F8cq1lZYM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
